@@ -1,2 +1,2 @@
-# GemmbDocs
+# Docs
 Gemmb Documentation
