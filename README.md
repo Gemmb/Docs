@@ -7,4 +7,4 @@ localizationpriority: medium
 ---
 
 # Docs
-Gemmb Documentation2
+Gemmb Documentation
