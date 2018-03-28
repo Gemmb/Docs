@@ -1,5 +1,6 @@
 ----
--layout: HubPage 
+layout: HubPage 
 ----
+
 # Docs
 Gemmb Documentation
